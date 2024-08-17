@@ -1,8 +1,8 @@
 ## 👋 <img src="https://github.com/AsonJtsz/AsonJtsz/assets/39010822/43d422b3-6207-408f-a8ac-349289c2e5d3" width="100"/>  Hey! Nice to see you.
 
-<p>Welcome to my page! </br> I'm Jason, a passionate software developer from <img src="https://github.com/AsonJtsz/AsonJtsz/assets/39010822/4fb0872b-7c8c-4ac7-9571-44b092905b0c" width="13"/> <b>Hong Kong </b>, currently living in <b>🍁 Toronto</b>. </p>
+<p>Welcome to my page! </br> I'm Jason, a passionate software developer from <img src="https://github.com/AsonJtsz/AsonJtsz/assets/39010822/4fb0872b-7c8c-4ac7-9571-44b092905b0c" width="13"/> <b>Hong Kong </b>. </p>
 
-## 👨‍💻 My Profile
+<## 👨‍💻 My Profile>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-tang-409b791a9/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://asonjtsz.github.io/Jason-Tang/)
 
